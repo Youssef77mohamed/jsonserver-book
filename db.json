@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "javascriptbook",
+      "cover_image": "https://javascriptbook.com/images/book/javascript-and-jquery-book-cover.png",
+      "author": "youssef mohamed",
+      "pages": "500",
+      "releaseDate": "2011",
+      "id": 1
+    },
+    {
+      "title": "js book",
+      "cover_image": "https://exploringjs.com/impatient-js/img-homepage/cover-homepage.jpg",
+      "author": "Dr.Axel Rauschmayer",
+      "pages": "500",
+      "releaseDate": "2018",
+      "id": 2
+    }
+  ]
+}
